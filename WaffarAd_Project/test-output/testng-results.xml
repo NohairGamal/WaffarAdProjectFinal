@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-07T17:01:26 EET" name="Suite" finished-at="2022-06-07T17:01:55 EET" duration-ms="28700">
+    <groups>
+    </groups>
+    <test started-at="2022-06-07T17:01:26 EET" name="Test" finished-at="2022-06-07T17:01:55 EET" duration-ms="28700">
+      <class name="Pages.Report">
+        <test-method is-config="true" signature="start()[pri:0, instance:Pages.Report@5c33f1a9]" started-at="2022-06-07T17:01:26 EET" name="start" finished-at="2022-06-07T17:01:26 EET" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="End()[pri:0, instance:Pages.Report@5c33f1a9]" started-at="2022-06-07T17:01:55 EET" name="End" finished-at="2022-06-07T17:01:55 EET" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- Pages.Report -->
+      <class name="Pages.EditOrder_In_Yashry">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0]" started-at="2022-06-07T17:01:26 EET" name="open_URL" finished-at="2022-06-07T17:01:40 EET" duration-ms="13877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="CheckThat_someFields_Disabled()[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0]" started-at="2022-06-07T17:01:40 EET" name="CheckThat_someFields_Disabled" finished-at="2022-06-07T17:01:40 EET" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckThat_someFields_Disabled -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0]" started-at="2022-06-07T17:01:40 EET" name="quit" finished-at="2022-06-07T17:01:40 EET" duration-ms="183" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CheckThat_someFields_Disabled status=SUCCESS method=EditOrder_In_Yashry.CheckThat_someFields_Disabled()[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0]" started-at="2022-06-07T17:01:40 EET" name="open_URL" finished-at="2022-06-07T17:01:54 EET" duration-ms="14184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderTotal()[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0]" started-at="2022-06-07T17:01:54 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderTotal" finished-at="2022-06-07T17:01:54 EET" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderTotal -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0]" started-at="2022-06-07T17:01:54 EET" name="quit" finished-at="2022-06-07T17:01:55 EET" duration-ms="226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidData_WithInsert_NegativeNumber_In_OrderTotal status=SUCCESS method=EditOrder_In_Yashry.ValidData_WithInsert_NegativeNumber_In_OrderTotal()[pri:0, instance:Pages.EditOrder_In_Yashry@661972b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.EditOrder_In_Yashry -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

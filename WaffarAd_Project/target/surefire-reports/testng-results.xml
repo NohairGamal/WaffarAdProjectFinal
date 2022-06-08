@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-07T14:28:44 EET" name="Suite" finished-at="2022-06-07T14:29:44 EET" duration-ms="59732">
+    <groups>
+    </groups>
+    <test started-at="2022-06-07T14:28:44 EET" name="Test" finished-at="2022-06-07T14:29:44 EET" duration-ms="59732">
+      <class name="Pages.Report">
+        <test-method is-config="true" signature="start()[pri:0, instance:Pages.Report@14dd9eb7]" started-at="2022-06-07T14:28:44 EET" name="start" finished-at="2022-06-07T14:28:44 EET" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="End()[pri:0, instance:Pages.Report@14dd9eb7]" started-at="2022-06-07T14:29:44 EET" name="End" finished-at="2022-06-07T14:29:45 EET" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- Pages.Report -->
+      <class name="Pages.Login">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:28:44 EET" name="open_URL" finished-at="2022-06-07T14:28:57 EET" duration-ms="12196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_All_fields_empty()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:28:57 EET" name="Login_All_fields_empty" finished-at="2022-06-07T14:28:57 EET" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_All_fields_empty -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:28:57 EET" name="quit" finished-at="2022-06-07T14:29:00 EET" duration-ms="2879" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_All_fields_empty status=SUCCESS method=Login.Login_All_fields_empty()[pri:0, instance:Pages.Login@28eaa59a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:00 EET" name="open_URL" finished-at="2022-06-07T14:29:17 EET" duration-ms="16369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_Correct_username_AndWrong_password()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:17 EET" name="Login_Correct_username_AndWrong_password" finished-at="2022-06-07T14:29:18 EET" duration-ms="1196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Correct_username_AndWrong_password -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:18 EET" name="quit" finished-at="2022-06-07T14:29:18 EET" duration-ms="202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Correct_username_AndWrong_password status=SUCCESS method=Login.Login_Correct_username_AndWrong_password()[pri:0, instance:Pages.Login@28eaa59a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:18 EET" name="open_URL" finished-at="2022-06-07T14:29:21 EET" duration-ms="3375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_Valid_Data()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:21 EET" name="Login_Valid_Data" finished-at="2022-06-07T14:29:23 EET" duration-ms="1707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Valid_Data -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:23 EET" name="quit" finished-at="2022-06-07T14:29:28 EET" duration-ms="4557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Valid_Data status=SUCCESS method=Login.Login_Valid_Data()[pri:0, instance:Pages.Login@28eaa59a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:28 EET" name="open_URL" finished-at="2022-06-07T14:29:43 EET" duration-ms="15397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_Wrong_username_Correct_password()[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:43 EET" name="Login_Wrong_username_Correct_password" finished-at="2022-06-07T14:29:44 EET" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Wrong_username_Correct_password -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@28eaa59a]" started-at="2022-06-07T14:29:44 EET" name="quit" finished-at="2022-06-07T14:29:44 EET" duration-ms="208" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Wrong_username_Correct_password status=SUCCESS method=Login.Login_Wrong_username_Correct_password()[pri:0, instance:Pages.Login@28eaa59a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
