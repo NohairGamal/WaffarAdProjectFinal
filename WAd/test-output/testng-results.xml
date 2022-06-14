@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="72" passed="72" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-14T15:03:41 EET" name="Suite" finished-at="2022-06-14T15:19:28 EET" duration-ms="947100">
+    <groups>
+    </groups>
+    <test started-at="2022-06-14T15:03:41 EET" name="Test" finished-at="2022-06-14T15:19:28 EET" duration-ms="947100">
+      <class name="Pages.SignUP">
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:07 EET" name="openURL" finished-at="2022-06-14T15:04:10 EET" duration-ms="3597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="BackButton()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:10 EET" name="BackButton" finished-at="2022-06-14T15:04:11 EET" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackButton -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:11 EET" name="quit" finished-at="2022-06-14T15:04:16 EET" duration-ms="5277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:16 EET" name="openURL" finished-at="2022-06-14T15:04:19 EET" duration-ms="2950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_All_fields_empty()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:19 EET" name="SignUP_All_fields_empty" finished-at="2022-06-14T15:04:20 EET" duration-ms="566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_All_fields_empty -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:20 EET" name="quit" finished-at="2022-06-14T15:04:23 EET" duration-ms="3443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:23 EET" name="openURL" finished-at="2022-06-14T15:04:26 EET" duration-ms="3036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_Check_System_TerminateSpacesFrom_Mail()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:26 EET" name="SignUP_Check_System_TerminateSpacesFrom_Mail" finished-at="2022-06-14T15:04:28 EET" duration-ms="1785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_Check_System_TerminateSpacesFrom_Mail -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:28 EET" name="quit" finished-at="2022-06-14T15:04:30 EET" duration-ms="2636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:30 EET" name="openURL" finished-at="2022-06-14T15:04:33 EET" duration-ms="2759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_NumbersandSymbols_in_name()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:33 EET" name="SignUP_CorrectData_Butinsert_NumbersandSymbols_in_name" finished-at="2022-06-14T15:04:35 EET" duration-ms="1765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_NumbersandSymbols_in_name -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:35 EET" name="quit" finished-at="2022-06-14T15:04:39 EET" duration-ms="4245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:39 EET" name="openURL" finished-at="2022-06-14T15:04:42 EET" duration-ms="3030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_Wrong_Format_in_Mail()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:42 EET" name="SignUP_CorrectData_Butinsert_Wrong_Format_in_Mail" finished-at="2022-06-14T15:04:44 EET" duration-ms="1453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_Wrong_Format_in_Mail -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:44 EET" name="quit" finished-at="2022-06-14T15:04:48 EET" duration-ms="4197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:48 EET" name="openURL" finished-at="2022-06-14T15:04:51 EET" duration-ms="2834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_Wrong_Format_in_URL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:51 EET" name="SignUP_CorrectData_Butinsert_Wrong_Format_in_URL" finished-at="2022-06-14T15:04:52 EET" duration-ms="1470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_Wrong_Format_in_URL -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:52 EET" name="quit" finished-at="2022-06-14T15:04:56 EET" duration-ms="3718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:56 EET" name="openURL" finished-at="2022-06-14T15:04:59 EET" duration-ms="2702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_differentValuesin_password_and_confirmpassword()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:04:59 EET" name="SignUP_CorrectData_Butinsert_differentValuesin_password_and_confirmpassword" finished-at="2022-06-14T15:05:00 EET" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_differentValuesin_password_and_confirmpassword -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:00 EET" name="quit" finished-at="2022-06-14T15:05:04 EET" duration-ms="3936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:04 EET" name="openURL" finished-at="2022-06-14T15:05:07 EET" duration-ms="2900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_email_exist_before_in_Mail()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:07 EET" name="SignUP_CorrectData_Butinsert_email_exist_before_in_Mail" finished-at="2022-06-14T15:05:09 EET" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_email_exist_before_in_Mail -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:09 EET" name="quit" finished-at="2022-06-14T15:05:13 EET" duration-ms="3960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:13 EET" name="openURL" finished-at="2022-06-14T15:05:16 EET" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_lettersandsymbols_in_phone()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:16 EET" name="SignUP_CorrectData_Butinsert_lettersandsymbols_in_phone" finished-at="2022-06-14T15:05:17 EET" duration-ms="1678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_lettersandsymbols_in_phone -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:17 EET" name="quit" finished-at="2022-06-14T15:05:22 EET" duration-ms="4909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:22 EET" name="openURL" finished-at="2022-06-14T15:05:25 EET" duration-ms="2661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_numberWhichExistBefore_in_phone()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:25 EET" name="SignUP_CorrectData_Butinsert_numberWhichExistBefore_in_phone" finished-at="2022-06-14T15:05:28 EET" duration-ms="3004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_numberWhichExistBefore_in_phone -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:28 EET" name="quit" finished-at="2022-06-14T15:05:28 EET" duration-ms="371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:28 EET" name="openURL" finished-at="2022-06-14T15:05:32 EET" duration-ms="3219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_spaces_only_in_name()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:32 EET" name="SignUP_CorrectData_Butinsert_spaces_only_in_name" finished-at="2022-06-14T15:05:34 EET" duration-ms="2010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_spaces_only_in_name -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:34 EET" name="quit" finished-at="2022-06-14T15:05:38 EET" duration-ms="4845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:38 EET" name="openURL" finished-at="2022-06-14T15:05:41 EET" duration-ms="2533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_value_Greater_than_maximum_limitation_in_password()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:41 EET" name="SignUP_CorrectData_Butinsert_value_Greater_than_maximum_limitation_in_password" finished-at="2022-06-14T15:05:44 EET" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_value_Greater_than_maximum_limitation_in_password -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:44 EET" name="quit" finished-at="2022-06-14T15:05:44 EET" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:44 EET" name="openURL" finished-at="2022-06-14T15:05:47 EET" duration-ms="2846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_value_Greater_than_maximum_limitation_in_phone()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:47 EET" name="SignUP_CorrectData_Butinsert_value_Greater_than_maximum_limitation_in_phone" finished-at="2022-06-14T15:05:48 EET" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_value_Greater_than_maximum_limitation_in_phone -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:48 EET" name="quit" finished-at="2022-06-14T15:05:51 EET" duration-ms="3021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:51 EET" name="openURL" finished-at="2022-06-14T15:05:54 EET" duration-ms="2794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_value_less_than_minimum_limitation_in_password()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:54 EET" name="SignUP_CorrectData_Butinsert_value_less_than_minimum_limitation_in_password" finished-at="2022-06-14T15:05:55 EET" duration-ms="1340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_value_less_than_minimum_limitation_in_password -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:05:55 EET" name="quit" finished-at="2022-06-14T15:06:00 EET" duration-ms="5009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:00 EET" name="openURL" finished-at="2022-06-14T15:06:03 EET" duration-ms="2669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_CorrectData_Butinsert_value_less_than_minimum_limitation_in_phone()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:03 EET" name="SignUP_CorrectData_Butinsert_value_less_than_minimum_limitation_in_phone" finished-at="2022-06-14T15:06:04 EET" duration-ms="1327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_CorrectData_Butinsert_value_less_than_minimum_limitation_in_phone -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:04 EET" name="quit" finished-at="2022-06-14T15:06:09 EET" duration-ms="5004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:09 EET" name="openURL" finished-at="2022-06-14T15:06:12 EET" duration-ms="2768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_ValidData()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:12 EET" name="SignUP_ValidData" finished-at="2022-06-14T15:06:15 EET" duration-ms="2868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_ValidData -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:15 EET" name="quit" finished-at="2022-06-14T15:06:19 EET" duration-ms="4293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:19 EET" name="openURL" finished-at="2022-06-14T15:06:23 EET" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="SignUP_ValidData_WithInsert_any_data_In_Description()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:23 EET" name="SignUP_ValidData_WithInsert_any_data_In_Description" finished-at="2022-06-14T15:06:24 EET" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUP_ValidData_WithInsert_any_data_In_Description -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.SignUP@13c9d689]" started-at="2022-06-14T15:06:24 EET" name="quit" finished-at="2022-06-14T15:06:28 EET" duration-ms="3776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.SignUP -->
+      <class name="Pages.Login">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:41 EET" name="open_URL" finished-at="2022-06-14T15:03:44 EET" duration-ms="3809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_All_fields_empty()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:44 EET" name="Login_All_fields_empty" finished-at="2022-06-14T15:03:45 EET" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_All_fields_empty -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:45 EET" name="quit" finished-at="2022-06-14T15:03:48 EET" duration-ms="3193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_All_fields_empty status=SUCCESS method=Login.Login_All_fields_empty()[pri:0, instance:Pages.Login@128d2484] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:48 EET" name="open_URL" finished-at="2022-06-14T15:03:50 EET" duration-ms="2320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_Correct_username_AndWrong_password()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:50 EET" name="Login_Correct_username_AndWrong_password" finished-at="2022-06-14T15:03:51 EET" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Correct_username_AndWrong_password -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:51 EET" name="quit" finished-at="2022-06-14T15:03:54 EET" duration-ms="3019" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Correct_username_AndWrong_password status=SUCCESS method=Login.Login_Correct_username_AndWrong_password()[pri:0, instance:Pages.Login@128d2484] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:54 EET" name="open_URL" finished-at="2022-06-14T15:03:56 EET" duration-ms="2298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_Valid_Data()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:56 EET" name="Login_Valid_Data" finished-at="2022-06-14T15:03:58 EET" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Valid_Data -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:03:58 EET" name="quit" finished-at="2022-06-14T15:04:02 EET" duration-ms="4519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Valid_Data status=SUCCESS method=Login.Login_Valid_Data()[pri:0, instance:Pages.Login@128d2484] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:04:02 EET" name="open_URL" finished-at="2022-06-14T15:04:04 EET" duration-ms="2197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Login_Wrong_username_Correct_password()[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:04:04 EET" name="Login_Wrong_username_Correct_password" finished-at="2022-06-14T15:04:05 EET" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Wrong_username_Correct_password -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Login@128d2484]" started-at="2022-06-14T15:04:05 EET" name="quit" finished-at="2022-06-14T15:04:07 EET" duration-ms="1706" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Login_Wrong_username_Correct_password status=SUCCESS method=Login.Login_Wrong_username_Correct_password()[pri:0, instance:Pages.Login@128d2484] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.Login -->
+      <class name="Pages.EditOrder_In_TFK">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:03 EET" name="open_URL" finished-at="2022-06-14T15:11:16 EET" duration-ms="12464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="CheckThat_OrderID_Disabled()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:16 EET" name="CheckThat_OrderID_Disabled" finished-at="2022-06-14T15:11:16 EET" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckThat_OrderID_Disabled -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:16 EET" name="quit" finished-at="2022-06-14T15:11:16 EET" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:16 EET" name="open_URL" finished-at="2022-06-14T15:11:28 EET" duration-ms="11677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderCommission()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:28 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderCommission" finished-at="2022-06-14T15:11:29 EET" duration-ms="1033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderCommission -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:29 EET" name="quit" finished-at="2022-06-14T15:11:29 EET" duration-ms="189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:29 EET" name="open_URL" finished-at="2022-06-14T15:11:41 EET" duration-ms="11855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderDiscount()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:41 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderDiscount" finished-at="2022-06-14T15:11:42 EET" duration-ms="863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderDiscount -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:42 EET" name="quit" finished-at="2022-06-14T15:11:46 EET" duration-ms="4150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:46 EET" name="open_URL" finished-at="2022-06-14T15:11:57 EET" duration-ms="11302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:57 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderNet" finished-at="2022-06-14T15:11:58 EET" duration-ms="820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:58 EET" name="quit" finished-at="2022-06-14T15:11:58 EET" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:11:58 EET" name="open_URL" finished-at="2022-06-14T15:12:09 EET" duration-ms="10988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderShipping()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:09 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderShipping" finished-at="2022-06-14T15:12:10 EET" duration-ms="818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderShipping -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:10 EET" name="quit" finished-at="2022-06-14T15:12:10 EET" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:10 EET" name="open_URL" finished-at="2022-06-14T15:12:21 EET" duration-ms="10910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderTax()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:21 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderTax" finished-at="2022-06-14T15:12:22 EET" duration-ms="1243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderTax -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:22 EET" name="quit" finished-at="2022-06-14T15:12:22 EET" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:22 EET" name="open_URL" finished-at="2022-06-14T15:12:34 EET" duration-ms="11305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_NegativeNumber_In_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:34 EET" name="ValidData_WithInsert_NegativeNumber_In_OrderTotal" finished-at="2022-06-14T15:12:35 EET" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_NegativeNumber_In_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:35 EET" name="quit" finished-at="2022-06-14T15:12:35 EET" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:35 EET" name="open_URL" finished-at="2022-06-14T15:12:47 EET" duration-ms="11646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderCommission_GreaterThan_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:47 EET" name="ValidData_WithInsert_OrderCommission_GreaterThan_OrderNet" finished-at="2022-06-14T15:12:58 EET" duration-ms="10815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderCommission_GreaterThan_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:58 EET" name="quit" finished-at="2022-06-14T15:12:58 EET" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:12:58 EET" name="open_URL" finished-at="2022-06-14T15:13:09 EET" duration-ms="11360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderCommission_GreaterThan_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:09 EET" name="ValidData_WithInsert_OrderCommission_GreaterThan_OrderTotal" finished-at="2022-06-14T15:13:20 EET" duration-ms="10668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderCommission_GreaterThan_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:20 EET" name="quit" finished-at="2022-06-14T15:13:20 EET" duration-ms="89" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:20 EET" name="open_URL" finished-at="2022-06-14T15:13:31 EET" duration-ms="11283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderDiscount_GreaterThan_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:31 EET" name="ValidData_WithInsert_OrderDiscount_GreaterThan_OrderNet" finished-at="2022-06-14T15:13:42 EET" duration-ms="10882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderDiscount_GreaterThan_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:42 EET" name="quit" finished-at="2022-06-14T15:13:42 EET" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:42 EET" name="open_URL" finished-at="2022-06-14T15:13:53 EET" duration-ms="10801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderDiscount_GreaterThan_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:13:53 EET" name="ValidData_WithInsert_OrderDiscount_GreaterThan_OrderTotal" finished-at="2022-06-14T15:14:04 EET" duration-ms="10779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderDiscount_GreaterThan_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:04 EET" name="quit" finished-at="2022-06-14T15:14:04 EET" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:04 EET" name="open_URL" finished-at="2022-06-14T15:14:16 EET" duration-ms="11725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderNet_GreaterThan_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:16 EET" name="ValidData_WithInsert_OrderNet_GreaterThan_OrderTotal" finished-at="2022-06-14T15:14:26 EET" duration-ms="10496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderNet_GreaterThan_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:26 EET" name="quit" finished-at="2022-06-14T15:14:26 EET" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:26 EET" name="open_URL" finished-at="2022-06-14T15:14:38 EET" duration-ms="11886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderShipping_GreaterThan_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:38 EET" name="ValidData_WithInsert_OrderShipping_GreaterThan_OrderNet" finished-at="2022-06-14T15:14:49 EET" duration-ms="10566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderShipping_GreaterThan_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:49 EET" name="quit" finished-at="2022-06-14T15:14:49 EET" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:14:49 EET" name="open_URL" finished-at="2022-06-14T15:15:00 EET" duration-ms="11273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderShipping_GreaterThan_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:00 EET" name="ValidData_WithInsert_OrderShipping_GreaterThan_OrderTotal" finished-at="2022-06-14T15:15:10 EET" duration-ms="10512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderShipping_GreaterThan_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:10 EET" name="quit" finished-at="2022-06-14T15:15:11 EET" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:11 EET" name="open_URL" finished-at="2022-06-14T15:15:22 EET" duration-ms="11207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderTax_GreaterThan_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:22 EET" name="ValidData_WithInsert_OrderTax_GreaterThan_OrderNet" finished-at="2022-06-14T15:15:33 EET" duration-ms="11185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderTax_GreaterThan_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:33 EET" name="quit" finished-at="2022-06-14T15:15:33 EET" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:33 EET" name="open_URL" finished-at="2022-06-14T15:15:44 EET" duration-ms="11179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_OrderTax_GreaterThan_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:44 EET" name="ValidData_WithInsert_OrderTax_GreaterThan_OrderTotal" finished-at="2022-06-14T15:15:55 EET" duration-ms="10641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_OrderTax_GreaterThan_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:55 EET" name="quit" finished-at="2022-06-14T15:15:55 EET" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:15:55 EET" name="open_URL" finished-at="2022-06-14T15:16:06 EET" duration-ms="11376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_Zero_In_OrderCommission()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:06 EET" name="ValidData_WithInsert_Zero_In_OrderCommission" finished-at="2022-06-14T15:16:17 EET" duration-ms="10623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_Zero_In_OrderCommission -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:17 EET" name="quit" finished-at="2022-06-14T15:16:17 EET" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:17 EET" name="open_URL" finished-at="2022-06-14T15:16:28 EET" duration-ms="10978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_Zero_In_OrderDiscount()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:28 EET" name="ValidData_WithInsert_Zero_In_OrderDiscount" finished-at="2022-06-14T15:16:39 EET" duration-ms="11096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_Zero_In_OrderDiscount -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:39 EET" name="quit" finished-at="2022-06-14T15:16:39 EET" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:39 EET" name="open_URL" finished-at="2022-06-14T15:16:50 EET" duration-ms="11207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_Zero_In_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:16:50 EET" name="ValidData_WithInsert_Zero_In_OrderNet" finished-at="2022-06-14T15:17:01 EET" duration-ms="10535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_Zero_In_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:01 EET" name="quit" finished-at="2022-06-14T15:17:01 EET" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:01 EET" name="open_URL" finished-at="2022-06-14T15:17:12 EET" duration-ms="11153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_Zero_In_OrderShipping()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:12 EET" name="ValidData_WithInsert_Zero_In_OrderShipping" finished-at="2022-06-14T15:17:24 EET" duration-ms="11604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_Zero_In_OrderShipping -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:24 EET" name="quit" finished-at="2022-06-14T15:17:24 EET" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:24 EET" name="open_URL" finished-at="2022-06-14T15:17:35 EET" duration-ms="11133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_WithInsert_Zero_In_OrderTax()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:35 EET" name="ValidData_WithInsert_Zero_In_OrderTax" finished-at="2022-06-14T15:17:46 EET" duration-ms="10541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_WithInsert_Zero_In_OrderTax -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:46 EET" name="quit" finished-at="2022-06-14T15:17:46 EET" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:46 EET" name="open_URL" finished-at="2022-06-14T15:17:57 EET" duration-ms="11085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_With_Insert_Zero_In_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:17:57 EET" name="ValidData_With_Insert_Zero_In_OrderTotal" finished-at="2022-06-14T15:18:07 EET" duration-ms="10650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_With_Insert_Zero_In_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:07 EET" name="quit" finished-at="2022-06-14T15:18:08 EET" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:08 EET" name="open_URL" finished-at="2022-06-14T15:18:19 EET" duration-ms="11251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_Without_InsertData_In_OrderTotal()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:19 EET" name="ValidData_Without_InsertData_In_OrderTotal" finished-at="2022-06-14T15:18:20 EET" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_Without_InsertData_In_OrderTotal -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:20 EET" name="quit" finished-at="2022-06-14T15:18:24 EET" duration-ms="4141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:24 EET" name="open_URL" finished-at="2022-06-14T15:18:35 EET" duration-ms="10958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_Without_insertDataIN_OrderCommission()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:35 EET" name="ValidData_Without_insertDataIN_OrderCommission" finished-at="2022-06-14T15:18:35 EET" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_Without_insertDataIN_OrderCommission -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:35 EET" name="quit" finished-at="2022-06-14T15:18:36 EET" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:36 EET" name="open_URL" finished-at="2022-06-14T15:18:47 EET" duration-ms="11743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_Without_insertDataIN_OrderDiscount()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:47 EET" name="ValidData_Without_insertDataIN_OrderDiscount" finished-at="2022-06-14T15:18:49 EET" duration-ms="1098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_Without_insertDataIN_OrderDiscount -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:49 EET" name="quit" finished-at="2022-06-14T15:18:49 EET" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:18:49 EET" name="open_URL" finished-at="2022-06-14T15:19:00 EET" duration-ms="11484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_Without_insertDataIN_OrderNet()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:00 EET" name="ValidData_Without_insertDataIN_OrderNet" finished-at="2022-06-14T15:19:01 EET" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_Without_insertDataIN_OrderNet -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:01 EET" name="quit" finished-at="2022-06-14T15:19:01 EET" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:01 EET" name="open_URL" finished-at="2022-06-14T15:19:13 EET" duration-ms="12210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_Without_insertDataIN_OrderShipping()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:13 EET" name="ValidData_Without_insertDataIN_OrderShipping" finished-at="2022-06-14T15:19:14 EET" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_Without_insertDataIN_OrderShipping -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:14 EET" name="quit" finished-at="2022-06-14T15:19:14 EET" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:14 EET" name="open_URL" finished-at="2022-06-14T15:19:26 EET" duration-ms="12115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ValidData_Without_insertDataIN_OrderTax()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:26 EET" name="ValidData_Without_insertDataIN_OrderTax" finished-at="2022-06-14T15:19:27 EET" duration-ms="966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidData_Without_insertDataIN_OrderTax -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.EditOrder_In_TFK@175c2241]" started-at="2022-06-14T15:19:27 EET" name="quit" finished-at="2022-06-14T15:19:28 EET" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.EditOrder_In_TFK -->
+      <class name="Pages.Cookies">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:28 EET" name="open_URL" finished-at="2022-06-14T15:08:30 EET" duration-ms="1276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_Auditechnology()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:30 EET" name="Cookies_Auditechnology" finished-at="2022-06-14T15:08:41 EET" duration-ms="11610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_Auditechnology -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:41 EET" name="quit" finished-at="2022-06-14T15:08:42 EET" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:42 EET" name="open_URL" finished-at="2022-06-14T15:08:43 EET" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_Carina()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:43 EET" name="Cookies_Carina" finished-at="2022-06-14T15:08:53 EET" duration-ms="10078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_Carina -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:53 EET" name="quit" finished-at="2022-06-14T15:08:55 EET" duration-ms="1621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:55 EET" name="open_URL" finished-at="2022-06-14T15:08:56 EET" duration-ms="1459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_Entertainer()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:08:56 EET" name="Cookies_Entertainer" finished-at="2022-06-14T15:09:11 EET" duration-ms="15001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_Entertainer -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:11 EET" name="quit" finished-at="2022-06-14T15:09:11 EET" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:11 EET" name="open_URL" finished-at="2022-06-14T15:09:13 EET" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_alsharifbeaute()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:13 EET" name="Cookies_alsharifbeaute" finished-at="2022-06-14T15:09:26 EET" duration-ms="13415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_alsharifbeaute -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:26 EET" name="quit" finished-at="2022-06-14T15:09:26 EET" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:26 EET" name="open_URL" finished-at="2022-06-14T15:09:28 EET" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_cdejewelry()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:28 EET" name="Cookies_cdejewelry" finished-at="2022-06-14T15:09:35 EET" duration-ms="7434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_cdejewelry -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:35 EET" name="quit" finished-at="2022-06-14T15:09:36 EET" duration-ms="1262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:36 EET" name="open_URL" finished-at="2022-06-14T15:09:38 EET" duration-ms="1473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_footcourt()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:38 EET" name="Cookies_footcourt" finished-at="2022-06-14T15:09:49 EET" duration-ms="11387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_footcourt -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:49 EET" name="quit" finished-at="2022-06-14T15:09:50 EET" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:50 EET" name="open_URL" finished-at="2022-06-14T15:09:51 EET" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_magmasport()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:09:51 EET" name="Cookies_magmasport" finished-at="2022-06-14T15:10:16 EET" duration-ms="25394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_magmasport -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:16 EET" name="quit" finished-at="2022-06-14T15:10:17 EET" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:17 EET" name="open_URL" finished-at="2022-06-14T15:10:18 EET" duration-ms="1136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_melouk()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:18 EET" name="Cookies_melouk" finished-at="2022-06-14T15:10:29 EET" duration-ms="11350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_melouk -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:29 EET" name="quit" finished-at="2022-06-14T15:10:29 EET" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:29 EET" name="open_URL" finished-at="2022-06-14T15:10:31 EET" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_msou()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:31 EET" name="Cookies_msou" finished-at="2022-06-14T15:10:43 EET" duration-ms="12380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_msou -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:43 EET" name="quit" finished-at="2022-06-14T15:10:43 EET" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:43 EET" name="open_URL" finished-at="2022-06-14T15:10:45 EET" duration-ms="1300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Cookies_olife()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:10:45 EET" name="Cookies_olife" finished-at="2022-06-14T15:11:03 EET" duration-ms="18336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cookies_olife -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Cookies@4afcd809]" started-at="2022-06-14T15:11:03 EET" name="quit" finished-at="2022-06-14T15:11:03 EET" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.Cookies -->
+      <class name="Pages.Exportand_Import_Excel">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:02 EET" name="open_URL" finished-at="2022-06-14T15:08:07 EET" duration-ms="4669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Click_UploadFile_Without_chooseFile()[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:07 EET" name="Click_UploadFile_Without_chooseFile" finished-at="2022-06-14T15:08:08 EET" duration-ms="1601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_UploadFile_Without_chooseFile -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:08 EET" name="quit" finished-at="2022-06-14T15:08:12 EET" duration-ms="3403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Click_UploadFile_Without_chooseFile status=SUCCESS method=Exportand_Import_Excel.Click_UploadFile_Without_chooseFile()[pri:0, instance:Pages.Exportand_Import_Excel@62379589] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:12 EET" name="open_URL" finished-at="2022-06-14T15:08:15 EET" duration-ms="3698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="ExportExcel_And_BulkUpdate()[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:15 EET" name="ExportExcel_And_BulkUpdate" finished-at="2022-06-14T15:08:19 EET" duration-ms="3404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExportExcel_And_BulkUpdate -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:19 EET" name="quit" finished-at="2022-06-14T15:08:20 EET" duration-ms="1238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ExportExcel_And_BulkUpdate status=SUCCESS method=Exportand_Import_Excel.ExportExcel_And_BulkUpdate()[pri:0, instance:Pages.Exportand_Import_Excel@62379589] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:20 EET" name="open_URL" finished-at="2022-06-14T15:08:24 EET" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Upload_wrong_file_type()[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:24 EET" name="Upload_wrong_file_type" finished-at="2022-06-14T15:08:26 EET" duration-ms="2557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Upload_wrong_file_type -->
+        <test-method is-config="true" signature="quit(org.testng.ITestResult)[pri:0, instance:Pages.Exportand_Import_Excel@62379589]" started-at="2022-06-14T15:08:26 EET" name="quit" finished-at="2022-06-14T15:08:28 EET" duration-ms="2251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Upload_wrong_file_type status=SUCCESS method=Exportand_Import_Excel.Upload_wrong_file_type()[pri:0, instance:Pages.Exportand_Import_Excel@62379589] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.Exportand_Import_Excel -->
+      <class name="Pages.Invoices">
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:28 EET" name="open_URL" finished-at="2022-06-14T15:06:34 EET" duration-ms="5592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Download_Invoice()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:34 EET" name="Download_Invoice" finished-at="2022-06-14T15:06:37 EET" duration-ms="2874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Download_Invoice -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:37 EET" name="quit" finished-at="2022-06-14T15:06:37 EET" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:37 EET" name="open_URL" finished-at="2022-06-14T15:06:42 EET" duration-ms="4870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Invoice_Details()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:42 EET" name="Invoice_Details" finished-at="2022-06-14T15:06:45 EET" duration-ms="2605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invoice_Details -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:45 EET" name="quit" finished-at="2022-06-14T15:06:46 EET" duration-ms="1779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:46 EET" name="open_URL" finished-at="2022-06-14T15:06:51 EET" duration-ms="4933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_AndChoose_CreditCard()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:51 EET" name="Pay_InvoiceWith_correctData_AndChoose_CreditCard" finished-at="2022-06-14T15:06:59 EET" duration-ms="7368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_AndChoose_CreditCard -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:59 EET" name="quit" finished-at="2022-06-14T15:06:59 EET" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:06:59 EET" name="open_URL" finished-at="2022-06-14T15:07:04 EET" duration-ms="4765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_LettersAndSymbols_InField_Phone()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:04 EET" name="Pay_InvoiceWith_correctData_Buinsert_LettersAndSymbols_InField_Phone" finished-at="2022-06-14T15:07:05 EET" duration-ms="1891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_LettersAndSymbols_InField_Phone -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:05 EET" name="quit" finished-at="2022-06-14T15:07:06 EET" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:06 EET" name="open_URL" finished-at="2022-06-14T15:07:12 EET" duration-ms="6103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_SpacesInField_LastName()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:12 EET" name="Pay_InvoiceWith_correctData_Buinsert_SpacesInField_LastName" finished-at="2022-06-14T15:07:14 EET" duration-ms="1719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_SpacesInField_LastName -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:14 EET" name="quit" finished-at="2022-06-14T15:07:15 EET" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:15 EET" name="open_URL" finished-at="2022-06-14T15:07:20 EET" duration-ms="5419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_SymbolsAndNumbersInField_FirstName()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:20 EET" name="Pay_InvoiceWith_correctData_Buinsert_SymbolsAndNumbersInField_FirstName" finished-at="2022-06-14T15:07:22 EET" duration-ms="1918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_SymbolsAndNumbersInField_FirstName -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:22 EET" name="quit" finished-at="2022-06-14T15:07:23 EET" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:23 EET" name="open_URL" finished-at="2022-06-14T15:07:28 EET" duration-ms="4818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_SymbolsAndNumbersInField_LastName()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:28 EET" name="Pay_InvoiceWith_correctData_Buinsert_SymbolsAndNumbersInField_LastName" finished-at="2022-06-14T15:07:33 EET" duration-ms="4504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_SymbolsAndNumbersInField_LastName -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:33 EET" name="quit" finished-at="2022-06-14T15:07:33 EET" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:33 EET" name="open_URL" finished-at="2022-06-14T15:07:38 EET" duration-ms="4534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_WrongFormat_inFieldEmail()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:38 EET" name="Pay_InvoiceWith_correctData_Buinsert_WrongFormat_inFieldEmail" finished-at="2022-06-14T15:07:39 EET" duration-ms="1573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_WrongFormat_inFieldEmail -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:39 EET" name="quit" finished-at="2022-06-14T15:07:43 EET" duration-ms="3420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:43 EET" name="open_URL" finished-at="2022-06-14T15:07:49 EET" duration-ms="5741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_Wronglimitation_InField_Phone()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:49 EET" name="Pay_InvoiceWith_correctData_Buinsert_Wronglimitation_InField_Phone" finished-at="2022-06-14T15:07:51 EET" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_Wronglimitation_InField_Phone -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:51 EET" name="quit" finished-at="2022-06-14T15:07:51 EET" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="open_URL()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:51 EET" name="open_URL" finished-at="2022-06-14T15:07:57 EET" duration-ms="5244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_URL -->
+        <test-method signature="Pay_InvoiceWith_correctData_Buinsert_spacesInField_FirstName()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:07:57 EET" name="Pay_InvoiceWith_correctData_Buinsert_spacesInField_FirstName" finished-at="2022-06-14T15:08:01 EET" duration-ms="4172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Pay_InvoiceWith_correctData_Buinsert_spacesInField_FirstName -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:Pages.Invoices@3754a4bf]" started-at="2022-06-14T15:08:01 EET" name="quit" finished-at="2022-06-14T15:08:02 EET" duration-ms="1216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Pages.Invoices -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
